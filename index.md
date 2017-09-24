@@ -9,7 +9,7 @@ Each lesson will contain 3 parts:
 1. Activity: here students will make what they learned real with a step by step exercise
 1. Project: here students will put there learnings to the test with open ended project
 
-> NOTE: Subbing in links from teh CS lesson plan, will update with student ready version of tasks
+> NOTE: Subbing in links from the CS lesson plan, will update with student ready version of tasks
 
 ## Day 1
 
