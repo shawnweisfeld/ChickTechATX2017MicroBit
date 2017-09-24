@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: 2017 ChickTech Austin micro:bit Lab
-description:
+description: Lab for 2017 ChickTech Austin Event
+markdown: kramdown
