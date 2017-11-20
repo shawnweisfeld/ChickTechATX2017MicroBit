@@ -45,6 +45,12 @@ Each lesson will contain 3 parts:
     1. [Overview](https://makecode.microbit.org/courses/csintro/binary/overview)
     1. [Project: Binary Clock](https://makecode.microbit.org/courses/csintro/binary/project)
 
+![Watch On Wrist](/assets/img/watch_onwrist.jpg)
+
+![Watch Front](/assets/img/watch_front.jpg)
+
+![Watch Back](/assets/img/watch_back.jpg)
+
 ## Bonus
 > Time permitting
 
