@@ -31,7 +31,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 1. **3:00 PM to 4:00 PM:** Conditional statements
     1. [Overview](./010601_Conditionals.html)
     1. [Rock, paper, scissors](./010602_RockPaperScissors.html)
-    1. [Coin Flipper Challenge](https://makecode.microbit.org/projects/coin-flipper)
+    1. [micro:bit iPod Challenge](./010603_iPod.html)
 1. **4:00 PM to 4:30 PM:** Day 1 Standup
 
 ## Day 2 - Project
