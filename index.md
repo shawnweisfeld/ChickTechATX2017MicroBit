@@ -20,7 +20,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
     1. [micro:bit Hardware](./0110_HardwareOverview.html)
     1. [micro:bit Software](./0120_SoftwareOverview.html)
     1. [Happy Face, Sad Face](./0130_HappySadFace.html)
-    1. [Fidget:bit](./0140_FidgetBit.html)
+    1. [Fidget:bit Challenge](./0140_FidgetBit.html)
 1. Noon to 1:00 PM: Lunch
 1. 1:00 PM to 2:00 PM: 3d Printing
     1. [Using our 3d printer to make a watch frame](./0210_3dprinting.html)
