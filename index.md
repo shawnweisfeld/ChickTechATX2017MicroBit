@@ -25,7 +25,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 1. 1:00 PM to 2:00 PM: 3d Printing
     1. [Using our 3d printer to make a watch frame](./0210_3dprinting.html)
 1. 2:00 PM to 3:00 PM: Conditional statements
-    1. [Overview](https://makecode.microbit.org/courses/csintro/conditionals)
+    1. [Overview](./0220_Conditionals.html)
     1. [Activity: Rock, paper, scissors](https://makecode.microbit.org/courses/csintro/conditionals/activity) - [Step by Step](https://makecode.microbit.org/projects/rock-paper-scissors)
     1. [Project: Coin Flipper](https://makecode.microbit.org/projects/coin-flipper)
 1. 3:00 PM to 4:00 PM: Booleans
@@ -38,7 +38,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 1. 9:00 AM to 10:00 AM: Variables
     1. [Overview](https://makecode.microbit.org/courses/csintro/variables/overview)
     1. [Activity: Scorekeeper](https://makecode.microbit.org/courses/csintro/variables/activity)
-    1. [Project: Pedometer](https://makecode.microbit.org/courses/csintro/variables/project)
+    1. [Project: Pedometer](https://makecode.microbit.org/courses/csintro/variables/project) [TWSU](https://make.techwillsaveus.com/bbc-microbit/activities/step-counter-by-the-faraday-institute)
 1. 10:00 AM to 11:00 AM: Iteration & Looping
     1. [Overview](https://makecode.microbit.org/courses/csintro/iteration/overview)
     1. [Activity: Traveling light](https://makecode.microbit.org/courses/csintro/iteration/activity)
@@ -51,6 +51,10 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 
 ## Bonus
 > Time permitting
+[twsu apple](https://make.techwillsaveus.com/bbc-microbit/activities/touch-arpeggiator)
+[twsu resister](https://make.techwillsaveus.com/bbc-microbit/activities/micro-graphite-303)
+[twsu morse phone](https://make.techwillsaveus.com/bbc-microbit/activities/micro-morse-phone)
+
 
 1. [Projects from TechWillSaveUs.com](https://make.techwillsaveus.com/bbc-microbit/bit)
 1. Radio
