@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Warmup
-[Home](./index.html)
+[Home](./)
 
 ## Activity
 

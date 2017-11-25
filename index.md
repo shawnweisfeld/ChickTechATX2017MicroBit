@@ -17,12 +17,13 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 1. 9:00 AM to 10:00 AM: Career Panel
 1. 10:00 AM to Noon: Intro & Algorithms
     1. [Warmup](./0100_Warmup.html)
-    1. [micro:bit Hardware Overview](https://makecode.microbit.org/courses/csintro/algorithms/overview)
-    1. [Activity: Happy Face, Sad Face](https://makecode.microbit.org/courses/csintro/algorithms/activity)
-    1. [Project: Fidget:bit](https://makecode.microbit.org/courses/csintro/algorithms/project)
+    1. [micro:bit Hardware](./0110_HardwareOverview.html)
+    1. [micro:bit Software](./0120_SoftwareOverview.html)
+    1. [Happy Face, Sad Face](./0130_HappySadFace.html)
+    1. [Fidget:bit](./0140_FidgetBit.html)
 1. Noon to 1:00 PM: Lunch
-1. 1:00 PM to 2:00 PM: Into to 3d printing
-    1. [Using our 3d printer to make a watch frame]()
+1. 1:00 PM to 2:00 PM: 3d Printing
+    1. [Using our 3d printer to make a watch frame](./0210_3dprinting.html)
 1. 2:00 PM to 3:00 PM: Conditional statements
     1. [Overview](https://makecode.microbit.org/courses/csintro/conditionals)
     1. [Activity: Rock, paper, scissors](https://makecode.microbit.org/courses/csintro/conditionals/activity) - [Step by Step](https://makecode.microbit.org/projects/rock-paper-scissors)
@@ -51,6 +52,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 ## Bonus
 > Time permitting
 
+1. [Projects from TechWillSaveUs.com](https://make.techwillsaveus.com/bbc-microbit/bit)
 1. Radio
     1. [Overview](https://makecode.microbit.org/courses/csintro/radio)
     1. Activity Options: class will select from the list
