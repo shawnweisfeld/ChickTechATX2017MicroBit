@@ -10,35 +10,35 @@ Coding a computer is not all sitting at a keyboard typing. In this hands on work
 ## Take Home Item
 BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 
-![Watch Assembled](/assets/img/watch-assembled.jpg)
+![Watch Assembled](./assets/img/watch-assembled.jpg)
 
 ## Day 1 - 12/9 Fundamentals
 
-1. 9:00 AM to 10:00 AM: Career Panel
-1. 10:00 AM to Noon: Intro & Algorithms
-    1. [Warmup](./0100_Warmup.html)
-    1. [micro:bit Hardware](./0110_HardwareOverview.html)
-    1. [micro:bit Software](./0120_SoftwareOverview.html)
-    1. [Happy Face, Sad Face](./0130_HappySadFace.html)
-    1. [Fidget:bit Challenge](./0140_FidgetBit.html)
-1. Noon to 1:00 PM: Lunch
-1. 1:00 PM to 2:00 PM: 3d Printing
-    1. [Using our 3d printer to make a watch frame](./0210_3dprinting.html)
-1. 2:00 PM to 3:00 PM: Conditional statements
-    1. [Overview](./0220_Conditionals.html)
-    1. [Activity: Rock, paper, scissors](https://makecode.microbit.org/courses/csintro/conditionals/activity) - [Step by Step](https://makecode.microbit.org/projects/rock-paper-scissors)
-    1. [Project: Coin Flipper](https://makecode.microbit.org/projects/coin-flipper)
+1. **9:00 AM to 10:00 AM:** Career Panel
+1. **10:00 AM to Noon:** Intro & Algorithms
+    1. [Warmup](./010201_Warmup.html)
+    1. [micro:bit Hardware](./010202_HardwareOverview.html)
+    1. [micro:bit Software](./010203_SoftwareOverview.html)
+    1. [Happy Face, Sad Face](./010204_HappySadFace.html)
+    1. [Fidget:bit Challenge](./010205_FidgetBit.html)
+1. **Noon to 1:00 PM:** Lunch
+1. **1:00 PM to 2:00 PM:** 3d Printing
+    1. [Using our 3d printer to make a watch frame](./010401_3dprinting.html)
+1. **2:00 PM to 3:00 PM:** Variables
+    1. [Overview](./010501_Variables.html)
+    1. [Counter](./010502_Counter.html)
+    1. [Scorekeeper Challenge](./010503_Scorekeeper.html)
+1. **3:00 PM to 4:00 PM:** Conditional statements
+    1. [Overview](./010601_Conditionals.html)
+    1. [Rock, paper, scissors](./010602_RockPaperScissors.html)
+    1. [Coin Flipper Challenge](https://makecode.microbit.org/projects/coin-flipper)
+1. **4:00 PM to 4:30 PM:** Day 1 Standup
+
+## Day 2 - Project
 1. 3:00 PM to 4:00 PM: Booleans
     1. [Overview](https://makecode.microbit.org/courses/csintro/booleans/overview)
     1. [Activity: Coin Flipper](https://makecode.microbit.org/projects/coin-flipper)
     1. [Project: Double Coin Flipper](https://makecode.microbit.org/courses/csintro/booleans/activity)
-1. 4:00 PM to 4:30 PM: Wrap Up Day 1
-
-## Day 2 - Project
-1. 9:00 AM to 10:00 AM: Variables
-    1. [Overview](https://makecode.microbit.org/courses/csintro/variables/overview)
-    1. [Activity: Scorekeeper](https://makecode.microbit.org/courses/csintro/variables/activity)
-    1. [Project: Pedometer](https://makecode.microbit.org/courses/csintro/variables/project) [TWSU](https://make.techwillsaveus.com/bbc-microbit/activities/step-counter-by-the-faraday-institute)
 1. 10:00 AM to 11:00 AM: Iteration & Looping
     1. [Overview](https://makecode.microbit.org/courses/csintro/iteration/overview)
     1. [Activity: Traveling light](https://makecode.microbit.org/courses/csintro/iteration/activity)
@@ -47,7 +47,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 1. 1:00 PM to 3:30 PM: Watch
     1. [Digital Watch](https://makecode.microbit.org/projects/watch/digital-watch)
 
-
+    1. [Project: Pedometer](https://makecode.microbit.org/courses/csintro/variables/project) [TWSU](https://make.techwillsaveus.com/bbc-microbit/activities/step-counter-by-the-faraday-institute)
 
 ## Bonus
 > Time permitting

@@ -64,6 +64,8 @@ On the bottom left of the application window, to the right of the Download butto
 
 >Important: Whenever you write a significant piece of code or just every few minutes, you should save your code. Giving your code a meaningful name will help you find it faster from a list of programs and will let others know what your program does.
 
+>Note: Programs saved in the browser window will go away if the browser is reset. To keep your programs forever, download the .hex files, to your computer. You can then upload the .hex files later to edit your program or copy them to your micro:bit.
+
 ## More event handlers
 Now to make our program a bit more interesting by adding two more event handlers.
 
