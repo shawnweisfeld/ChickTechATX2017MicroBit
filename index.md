@@ -35,10 +35,11 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 1. **4:00 PM to 4:30 PM:** Day 1 Standup
 
 ## Day 2 - Sunday 12/10
-1. **9:00 AM to 10:00 PM:** Iteration & Looping
-    1. [Overview](https://makecode.microbit.org/courses/csintro/iteration/overview)
-    1. [Activity: Traveling light](https://makecode.microbit.org/courses/csintro/iteration/activity)
-1. **10:00 AM to 11:00 PM:** Coordinates
+1. **9:00 AM to 10:00 PM:** Iteration, Looping & Coordinates
+    1. [Overview](./020101_Iteration.html)
+    1. [Traveling Light](./020102_TravelingLight.html)
+    1. [Traveling Light Challenge](./020103_TravelingLight.html)
+1. **10:00 AM to 11:00 PM:** 
 1. **11:00 AM to Noon:** Booleans
     1. [Overview](https://makecode.microbit.org/courses/csintro/booleans/overview)
     1. [Activity: Coin Flipper](https://makecode.microbit.org/projects/coin-flipper)
@@ -63,4 +64,13 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 
 ## More Projects Ideas:
 1. [microbit.org](http://microbit.org/ideas/)
-1. [Projects from TechWillSaveUs.com](https://make.techwillsaveus.com/bbc-microbit/bit)
+1. [TechWillSaveUs.com](https://make.techwillsaveus.com/bbc-microbit/bit)
+
+## Reference:
+1. [MakeCode Block Reference](https://makecode.microbit.org/reference)
+
+## Credits
+Ideas, activities have been borrowed from:
+1. [microbit.org](http://microbit.org/ideas/)
+1. [TechWillSaveUs.com](https://make.techwillsaveus.com/bbc-microbit/bit)
+1. [code.org](https://code.org)
