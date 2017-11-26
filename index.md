@@ -12,7 +12,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 
 ![Watch Assembled](./assets/img/watch-assembled.jpg)
 
-## Day 1 - 12/9 Fundamentals
+## Day 1 - Saturday 12/9
 
 1. **9:00 AM to 10:00 AM:** Career Panel
 1. **10:00 AM to Noon:** Intro & Algorithms
@@ -34,29 +34,25 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
     1. [micro:bit iPod Challenge](./010603_iPod.html)
 1. **4:00 PM to 4:30 PM:** Day 1 Standup
 
-## Day 2 - Project
-1. 3:00 PM to 4:00 PM: Booleans
+## Day 2 - Sunday 12/10
+1. **9:00 AM to 10:00 PM:** Iteration & Looping
+    1. [Overview](https://makecode.microbit.org/courses/csintro/iteration/overview)
+    1. [Activity: Traveling light](https://makecode.microbit.org/courses/csintro/iteration/activity)
+1. **10:00 AM to 11:00 PM:** Coordinates
+1. **11:00 AM to Noon:** Booleans
     1. [Overview](https://makecode.microbit.org/courses/csintro/booleans/overview)
     1. [Activity: Coin Flipper](https://makecode.microbit.org/projects/coin-flipper)
     1. [Project: Double Coin Flipper](https://makecode.microbit.org/courses/csintro/booleans/activity)
-1. 10:00 AM to 11:00 AM: Iteration & Looping
-    1. [Overview](https://makecode.microbit.org/courses/csintro/iteration/overview)
-    1. [Activity: Traveling light](https://makecode.microbit.org/courses/csintro/iteration/activity)
-    1. [Project: Compas](https://makecode.microbit.org/projects/compass)    
-1. Noon to 1:00 PM: Lunch    
-1. 1:00 PM to 3:30 PM: Watch
+1. **Noon to 1:00 PM:** Lunch    
+1. **1:00 PM to 3:00 PM:** Watch
     1. [Digital Watch](https://makecode.microbit.org/projects/watch/digital-watch)
-
     1. [Project: Pedometer](https://makecode.microbit.org/courses/csintro/variables/project) [TWSU](https://make.techwillsaveus.com/bbc-microbit/activities/step-counter-by-the-faraday-institute)
+    1. [Project: Compas](https://makecode.microbit.org/projects/compass)
+1. **3:00 PM to 3:30 PM:** Day 2 Standup
 
-## Bonus
-> Time permitting
-[twsu apple](https://make.techwillsaveus.com/bbc-microbit/activities/touch-arpeggiator)
-[twsu resister](https://make.techwillsaveus.com/bbc-microbit/activities/micro-graphite-303)
+## Bonus Challenges
 [twsu morse phone](https://make.techwillsaveus.com/bbc-microbit/activities/micro-morse-phone)
 
-
-1. [Projects from TechWillSaveUs.com](https://make.techwillsaveus.com/bbc-microbit/bit)
 1. Radio
     1. [Overview](https://makecode.microbit.org/courses/csintro/radio)
     1. Activity Options: class will select from the list
@@ -65,3 +61,6 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
         1. [Infection](https://makecode.microbit.org/projects/infection)
         1. [Hot or Cold](https://makecode.microbit.org/projects/hot-or-cold)
 
+## More Projects Ideas:
+1. [microbit.org](http://microbit.org/ideas/)
+1. [Projects from TechWillSaveUs.com](https://make.techwillsaveus.com/bbc-microbit/bit)
