@@ -39,11 +39,12 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
     1. [Overview](./020101_Iteration.html)
     1. [Traveling Light](./020102_TravelingLight.html)
     1. [Traveling Light Challenge](./020103_TravelingLight.html)
-1. **10:00 AM to 11:00 PM:** 
-1. **11:00 AM to Noon:** Booleans
-    1. [Overview](https://makecode.microbit.org/courses/csintro/booleans/overview)
-    1. [Activity: Coin Flipper](https://makecode.microbit.org/projects/coin-flipper)
-    1. [Project: Double Coin Flipper](https://makecode.microbit.org/courses/csintro/booleans/activity)
+1. **10:00 AM to 11:00 PM:** Booleans
+    1. [Overview](./020201_Booleans.html)
+    1. [Pick a Hand Game](./020202_PickHand.html)
+    1. [Pick a Hand Game Challenge](./020203_PickHand2.html)
+1. **11:00 AM to Noon:** Arrays
+magic 8 ball
 1. **Noon to 1:00 PM:** Lunch    
 1. **1:00 PM to 3:00 PM:** Watch
     1. [Digital Watch](https://makecode.microbit.org/projects/watch/digital-watch)
