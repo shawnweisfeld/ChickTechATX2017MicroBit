@@ -57,14 +57,6 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 ## Bonus Challenges
 [twsu morse phone](https://make.techwillsaveus.com/bbc-microbit/activities/micro-morse-phone)
 
-1. Radio
-    1. [Overview](https://makecode.microbit.org/courses/csintro/radio)
-    1. Activity Options: class will select from the list
-        1. [micro:bit messenger](https://makecode.microbit.org/courses/csintro/radio/activity) - we will use a variation of the marco polo app to use the micro:bits in the watches to send messages to your friends
-        1. [Rock Paper Scissors Teams](https://makecode.microbit.org/projects/rps-teams)
-        1. [Infection](https://makecode.microbit.org/projects/infection)
-        1. [Hot or Cold](https://makecode.microbit.org/projects/hot-or-cold)
-
 ## More Projects Ideas:
 1. [microbit.org](http://microbit.org/ideas/)
 1. [TechWillSaveUs.com](https://make.techwillsaveus.com/bbc-microbit/bit)
