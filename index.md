@@ -44,7 +44,9 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
     1. [Pick a Hand Game](./020202_PickHand.html)
     1. [Pick a Hand Game Challenge](./020203_PickHand2.html)
 1. **11:00 AM to Noon:** Arrays
-magic 8 ball
+    1. [Overview](./020301_Arrays.html)
+    1. [Sorting Arrays](./020302_Sorting.html)
+    1. [Magic 8 Ball](./020303_8Ball.html)
 1. **Noon to 1:00 PM:** Lunch    
 1. **1:00 PM to 3:00 PM:** Watch
     1. [Digital Watch](https://makecode.microbit.org/projects/watch/digital-watch)
