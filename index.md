@@ -51,7 +51,8 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 1. **1:00 PM to 3:00 PM:** Watch
     1. [Watch Software](./020401_Watch.html)
     1. [Watch Assembly](./020402_Assembly.html)
-    1. [Project: Pedometer](https://makecode.microbit.org/courses/csintro/variables/project) [TWSU](https://make.techwillsaveus.com/bbc-microbit/activities/step-counter-by-the-faraday-institute)
+    1. [Pedometer Challenge](./020403_Pedometer.html)
+    1. [Stop Watch Challenge]()
     1. [Project: Compas](https://makecode.microbit.org/projects/compass)
 1. **3:00 PM to 3:30 PM:** Day 2 Standup
 
