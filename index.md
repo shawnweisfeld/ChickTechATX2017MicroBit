@@ -52,7 +52,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
     1. [Watch Software](./020401_Watch.html)
     1. [Watch Assembly](./020402_Assembly.html)
     1. [Pedometer Challenge](./020403_Pedometer.html)
-    1. [Stop Watch Challenge]()
+    1. [Stop Watch Challenge](./02404_Stopwatch.html)
     1. [Project: Compas](https://makecode.microbit.org/projects/compass)
 1. **3:00 PM to 3:30 PM:** Day 2 Standup
 
