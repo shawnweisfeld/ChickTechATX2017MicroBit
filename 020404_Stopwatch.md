@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Stopwarch Challenge
+# Stopwatch Challenge
 [Home](./)
 
 Can you turn your micro:bit watch into a stopwatch?
