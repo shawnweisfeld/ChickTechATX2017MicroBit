@@ -56,8 +56,8 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
     1. [Compass Challenge](./020405_Compass.html)
 1. **3:00 PM to 3:30 PM:** Day 2 Standup
 
-## Bonus Challenges
-[twsu morse phone](https://make.techwillsaveus.com/bbc-microbit/activities/micro-morse-phone)
+## Bonus
+[micro:bit Binary Telegraph](./020405_Telegraph.html)
 
 ## More Projects Ideas:
 1. [microbit.org](http://microbit.org/ideas/)
