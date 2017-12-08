@@ -78,7 +78,7 @@ When the micro:bit is shaken, the digital die, will display a random number from
 
     ![Step 03](./assets/img/die-step03.png)
 
-1. Awesome, if you "shake" your micro:bit enough times you will see that we sometimes will "roll" a zero. However, we want to ensure that our users can roll from a 1 to a 6. Since our random number generator always starts at a zero, if we take the random number it gives us and add one, we can ensure the minimum roll is a 1. In the math toolbox, drag an addition block onto the designer. Place our random block in the first position and ensure it says "+" in the middle, and then one on the right. We can now put the enire composit block into our `show number` command, like so, and then test it in the simulator.
+1. Awesome, if you "shake" your micro:bit enough times you will see that we sometimes will "roll" a zero. However, we want to ensure that our users can roll from a 1 to a 6. Since our random number generator always starts at a zero, if we take the random number it gives us and add one, we can ensure the minimum roll is a 1. In the math toolbox, drag an addition block onto the designer. Place our random block in the first position and ensure it says "+" in the middle, and then one on the right. We can now put the entire composit block into our `show number` command, like so, and then test it in the simulator.
 
     ![Step 04](./assets/img/die-step04.png)
 
