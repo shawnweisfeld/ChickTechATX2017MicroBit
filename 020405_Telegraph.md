@@ -7,6 +7,8 @@ layout: default
 
 Use your micro:bit to send and recive secret messages with your friends.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NCi7BQ6OiCE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 Most everyone who uses a computer has heard the terms, kilobyte (kB), Megabyte (MB), Gigabyte (GB) and even Terabyte (TB), usually when referring to the size of computer files and hard drives as well as download speeds. Bandwidth or connection rates are measured in bits/second. But what is a bit and what is a byte and what do they have to do with computers?
 
 Picture a basic room light. The light is either on or it is off. You control the current state of the light by flipping a switch that has only two settings, down (light off) and up (light on). The earliest computers used a series of mechanical switches to control the flow of electricity through their circuits, turning each one on or off. The on/off states of the circuits was used to represent and even store information. The smallest unit of information, representing the state of one switch, is known as a bit.
