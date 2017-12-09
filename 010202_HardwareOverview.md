@@ -11,6 +11,9 @@ The micro:bit was created in 2015 in the UK by the BBC to teach computer science
 ![BBC micro:bit](./assets/img/bbc-microbit.jpg)
 
 ## What is a computer?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f7WfMGA4u_w" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 There are 4 main components that make up any computer:
 
 ![Computer components](./assets/img/cpu.png)
